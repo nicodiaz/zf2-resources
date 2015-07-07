@@ -24,6 +24,9 @@ Example
 -------
 
 ```php
+<?php
+namespace Application\Form;
+
 class Register extends Form 
 {
 	function __construct()
